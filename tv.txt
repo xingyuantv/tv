@@ -2,7 +2,7 @@
 {
 
 /*-----------------------JAR包接口-----------------------*/
-"spider":"https://gitea.com/xingyuan/tv/raw/branch/main/zy.jar",
+"spider":"https://gitea.com/xingyuan/tv/raw/branch/main/zy.jar;md5;A49895864B741FCAC31827B2C3998744",
 //"spider":"clan://cat/zy.jar",
 /*-----------------------直播-----------------------*/
 
