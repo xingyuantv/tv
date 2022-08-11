@@ -1,6 +1,6 @@
 {"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[	"proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDEvdHYwODEwdHYudHh0P3NpZ249R29vM1dod1U2S3pPN2l6SGdUU1BNaEZaeFVCT2RvMk1aenNuNV9Zd0p1USUzRCUzQTA="]}]}],
 "spider": "http://52bsj.vip:81/api/v3/file/get/28215/PlutoPlayer0809.jar?sign=xD54KwnKp_pD9wTxlAIn5iVP5sKUakf3wW6szYJ9KaY%3D%3A0;md5;B2CCC22142714422B8C7953448BA6C4E",
-//"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites":[{"key":"csp_Kunyu77","name":"七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP293","name":"293〔SP〕","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_SP360","name":"360〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -38,7 +38,6 @@
 {"key": "MV","name": "歌曲MTV〔SP〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/IPTV/vod/raw/branch/main/MaooXB/歌曲MV.json"},
 
 
-{"key":"APP影视〔官源〕","name":"↓APP影视〔官源〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"天堂资源〔官源〕","name":"天堂资源〔官源〕","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫","国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","哔哩哔哩"]},
 {"key":"多多资源","name":"多多资源〔官源〕","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,
