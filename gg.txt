@@ -1,4 +1,4 @@
-{"spider": "https://share.nite07.com/api/v3/file/source/14320/gg0816.jar?sign=G08yLSonJ_niBs8HGNC6K-jpGOxBWhFPokpmgcXiGfs%3D%3A0",
+{"spider": "https://gitea.com/xingyuan/tv/raw/branch/main/gg0816.jar,md5;0E62C852329931928250741CCBAF879B",
  //"wallpaper": "http://刚刚.live/图",
  "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8xMzUxOC9nZ2xpdmUudHh0P3NpZ249ZFBCcjhyME5RZHlJdFM4eUtCSFRodGN4ckNHaTZPOGtERnlSMkFNekc4ayUzRCUzQTA="]}]}],
  "sites": [{"key":"csp_BBB","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://share.nite07.com/api/v3/file/source/14319/bili.json?sign=r4aAtxdMuANJgpqk-jY7Xz59uLKPIi8Mwj7PL7ztC8M%3D%3A0"},
