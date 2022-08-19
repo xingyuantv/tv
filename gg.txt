@@ -5,7 +5,7 @@
 {"key":"小苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_BBB","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/xingyuan/tv/raw/branch/main/bili.json"},
-{"key":"演唱会","name":"演唱","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/xingyuan/tv/raw/branch/main/yanchanghui.json"},
+{"key":"演唱会","name":"演唱","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/xingyuan/tv/raw/branch/main/gequ.json"},
 {"key":"歌曲","name":"歌曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/xingyuan/tv/raw/branch/main/gequ.json"},
 {"key":"戏曲","name":"戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/xingyuan/tv/raw/branch/main/xiqu.json"},
 {"key":"幼儿乐园","name":"幼儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/幼儿乐园.php"},
